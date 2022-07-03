@@ -18,5 +18,6 @@ Citibike NYC showed there is a potential to expand bike sharing services to Des 
 ![Trips by Gender Weekday](https://user-images.githubusercontent.com/99519095/177032438-34ab5281-379f-43e1-8172-44cb024fa1bd.png)
 ![Trips by user type](https://user-images.githubusercontent.com/99519095/177032441-57e12538-39be-46d1-9f68-1fd4a2f2fa37.png)
 
-
+# Here is a link to my Tableau Dashboard
+https://public.tableau.com/app/profile/harprit2887/viz/NYCCitiBikeRide/Dashboard1?publish=yes
 
