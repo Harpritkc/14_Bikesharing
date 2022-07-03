@@ -11,14 +11,13 @@ Citibike NYC showed there is a potential to expand bike sharing services to Des 
 https://public.tableau.com/app/profile/harprit2887/viz/NYCCitiBikeRide/Dashboard1?publish=yes
 
 # Here are the Results
-![Checkout time by gender](https://user-images.githubusercontent.com/99519095/177032428-ec7fccfa-7632-40d5-86ac-f2d638f832d1.png)
-![Checkout Time for Users](https://user-images.githubusercontent.com/99519095/177032429-4384b0a1-e0cf-400d-a877-5d3ceccf5fa3.png)
-![DashBoard](https://user-images.githubusercontent.com/99519095/177032431-26e829e0-5f2d-41c7-b41a-5e6ff4f1fe5a.png)
-![Peak Riding hr](https://user-images.githubusercontent.com/99519095/177032433-2094f0d6-c2d9-4779-bccc-7e7bdc05071a.png)
 ![Riders by Gender](https://user-images.githubusercontent.com/99519095/177032434-39d78528-7a14-4de2-846a-c9ad3fbf189a.png)
 ![Top enging Locations](https://user-images.githubusercontent.com/99519095/177032436-0f951e4c-7c76-405c-aa7c-f7a290c8bb0a.png)
+![Peak Riding hr](https://user-images.githubusercontent.com/99519095/177032433-2094f0d6-c2d9-4779-bccc-7e7bdc05071a.png)
+![Checkout time by gender](https://user-images.githubusercontent.com/99519095/177032428-ec7fccfa-7632-40d5-86ac-f2d638f832d1.png)
+![Checkout Time for Users](https://user-images.githubusercontent.com/99519095/177032429-4384b0a1-e0cf-400d-a877-5d3ceccf5fa3.png)
 ![Trip by Weekday](https://user-images.githubusercontent.com/99519095/177032437-d20e4820-ca4e-4379-aae2-f07439bf07b0.png)
 ![Trips by Gender Weekday](https://user-images.githubusercontent.com/99519095/177032438-34ab5281-379f-43e1-8172-44cb024fa1bd.png)
 ![Trips by user type](https://user-images.githubusercontent.com/99519095/177032441-57e12538-39be-46d1-9f68-1fd4a2f2fa37.png)
-
+![DashBoard](https://user-images.githubusercontent.com/99519095/177032431-26e829e0-5f2d-41c7-b41a-5e6ff4f1fe5a.png)
 
