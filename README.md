@@ -8,7 +8,7 @@ The citibike program in New York City seems to be thriving based on a recent ana
 Citibike NYC showed there is a potential to expand bike sharing services to Des Moines, Iowa. Although bikesharing services is mostly utilized by male riders, female riders also tend to be consistent in their bike riding usage. According to the U.S. Census Bureau, De Moise's female population ratio appears to be similar to NYC's. De Moise is comprised of 50.8% female whereas NYC is comprised of 52.3%. This could be an indication that rideship among females in De Moise could lead to similar trends.
 
 # Here is a link to my Tableau Dashboard
-![Dashboard](https://user-images.githubusercontent.com/99519095/177898573-6bf98e79-6875-46f6-b244-cd3c6a4cdafe.png)
+
 
 
 # Here are the Results
