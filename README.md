@@ -24,6 +24,6 @@ https://public.tableau.com/app/profile/harprit2887/viz/NYCCitiBikeRide/Dashboard
 ![Trips by user type](https://user-images.githubusercontent.com/99519095/177032441-57e12538-39be-46d1-9f68-1fd4a2f2fa37.png)
 
 
-https://public.tableau.com/app/profile/harprit2887/viz/NYCCitiBikeRide/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/harprit2887/viz/NYCCitiBikeRide/NYCCBride
 
 
